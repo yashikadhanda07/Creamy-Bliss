@@ -1,0 +1,29 @@
+[
+  {
+    "id": "msg-1793550497558",
+    "name": "Alex Rivera",
+    "email": "alex@example.com",
+    "subject": "Catering question",
+    "message": "Do you cater for weddings?",
+    "status": "Unread",
+    "createdAt": "2026-11-01T16:28:17.558Z"
+  },
+  {
+    "id": "msg-1793550777997",
+    "name": "Alex Rivera",
+    "email": "alex@example.com",
+    "subject": "Catering question",
+    "message": "Do you cater for weddings?",
+    "status": "Unread",
+    "createdAt": "2026-11-01T16:32:57.997Z"
+  },
+  {
+    "id": "msg-1793686969068",
+    "name": "Alex Rivera",
+    "email": "alex@example.com",
+    "subject": "Catering question",
+    "message": "Do you cater for weddings?",
+    "status": "Unread",
+    "createdAt": "2026-11-03T06:22:49.068Z"
+  }
+]

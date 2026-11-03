@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rev-1",
+    "name": "Sofia Martinez",
+    "avatar": "https://lh3.googleusercontent.com/aida-public/AB6AXuC0qlHXtOrwgbbGtw3kg_sp0adxr1WamoGQAcOAh_0uKYy9tbPWmwV4a5yaYr8FK1cVbWyIzZY3SJ-ta1ORpL9CHO36NDiF__ufgsrm8UNHMT91uhrI71XDTc8LdiwZtuf20QuKoRWARFlEp0vFPz3qi--8YvWkPiN4zopO99wRydpPWyd-7hP_b7SVDpbczqjQSgy1VXsTKX6FuKiV_J8d_CvuxR1u4Ze2FifDl8IB",
+    "verified": true,
+    "rating": 5,
+    "flavor": "Strawberry Delight",
+    "review": "“The Strawberry Delight is literal perfection in a cone! Crisp handmade waffle and that silky, melt-in-mouth strawberry texture. I crave this every weekend!”",
+    "date": "2026-10-18T14:20:00Z"
+  },
+  {
+    "id": "rev-2",
+    "name": "David Reynolds",
+    "initials": "DR",
+    "verified": true,
+    "rating": 5,
+    "flavor": "Belgian Chocolate",
+    "review": "“Hands down the richest Belgian chocolate gelato in the city. The fudge ribbons with subtle crunch from nibs make it an absolute masterclass dessert.”",
+    "date": "2026-10-22T19:45:00Z"
+  },
+  {
+    "id": "rev-3",
+    "name": "Chloe Tanaka",
+    "initials": "CT",
+    "verified": true,
+    "rating": 5,
+    "flavor": "Vanilla Dream",
+    "review": "“The waffle bowl sundae made our anniversary evening so special. Ordering online was seamless and arrived ice-cold in eco packaging!”",
+    "date": "2026-10-27T11:15:00Z"
+  },
+  {
+    "id": "rev-1793550497530",
+    "name": "Jordan Lee",
+    "initials": "JL",
+    "rating": 5,
+    "review": "The Belgian Chocolate is decadent and divine!",
+    "flavor": "Belgian Chocolate",
+    "verified": true,
+    "createdAt": "2026-11-01T16:28:17.530Z"
+  },
+  {
+    "id": "rev-1793550777971",
+    "name": "Jordan Lee",
+    "initials": "JL",
+    "rating": 5,
+    "review": "The Belgian Chocolate is decadent and divine!",
+    "flavor": "Belgian Chocolate",
+    "verified": true,
+    "createdAt": "2026-11-01T16:32:57.971Z"
+  },
+  {
+    "id": "rev-1793686969037",
+    "name": "Jordan Lee",
+    "initials": "JL",
+    "rating": 5,
+    "review": "The Belgian Chocolate is decadent and divine!",
+    "flavor": "Belgian Chocolate",
+    "verified": true,
+    "createdAt": "2026-11-03T06:22:49.037Z"
+  }
+]

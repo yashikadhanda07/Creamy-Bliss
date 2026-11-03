@@ -1,0 +1,23 @@
+[
+  {
+    "code": "BLISSJOY",
+    "discountPercent": 20,
+    "description": "20% off your entire order!",
+    "minSpend": 0,
+    "isActive": true
+  },
+  {
+    "code": "SWEET10",
+    "discountPercent": 10,
+    "description": "10% off any order",
+    "minSpend": 15,
+    "isActive": true
+  },
+  {
+    "code": "SUMMER15",
+    "discountPercent": 15,
+    "description": "15% off summer newsletter sign-up",
+    "minSpend": 10,
+    "isActive": true
+  }
+]

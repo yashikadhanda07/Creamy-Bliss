@@ -1,0 +1,38 @@
+[
+  {
+    "id": "all",
+    "label": "All Flavors",
+    "icon": "stars",
+    "isEmoji": false
+  },
+  {
+    "id": "berries",
+    "label": "Berry & Fruity",
+    "icon": "🍓",
+    "isEmoji": true
+  },
+  {
+    "id": "chocolate",
+    "label": "Rich Chocolate",
+    "icon": "🍫",
+    "isEmoji": true
+  },
+  {
+    "id": "classics",
+    "label": "Classics",
+    "icon": "🍦",
+    "isEmoji": true
+  },
+  {
+    "id": "bakery",
+    "label": "Bakery & Crunch",
+    "icon": "🍪",
+    "isEmoji": true
+  },
+  {
+    "id": "vegan",
+    "label": "Vegan & Sorbets",
+    "icon": "🌱",
+    "isEmoji": true
+  }
+]

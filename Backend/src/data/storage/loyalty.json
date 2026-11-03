@@ -1,0 +1,138 @@
+{
+  "memberId": "MEM-88219",
+  "name": "Sweet Member",
+  "avatarUrl": "https://lh3.googleusercontent.com/aida-public/AB6AXuC0qlHXtOrwgbbGtw3kg_sp0adxr1WamoGQAcOAh_0uKYy9tbPWmwV4a5yaYr8FK1cVbWyIzZY3SJ-ta1ORpL9CHO36NDiF__ufgsrm8UNHMT91uhrI71XDTc8LdiwZtuf20QuKoRWARFlEp0vFPz3qi--8YvWkPiN4zopO99wRydpPWyd-7hP_b7SVDpbczqjQSgy1VXsTKX6FuKiV_J8d_CvuxR1u4Ze2FifDl8IB",
+  "tier": "Gold Tier Member",
+  "memberSince": "March 2024",
+  "points": 330,
+  "pointsHistory": [
+    {
+      "id": "pts-1793686969057",
+      "date": "2026-11-03",
+      "description": "Redeemed: Free Artisan Topping",
+      "points": "-50"
+    },
+    {
+      "id": "pts-1793686969043",
+      "date": "2026-11-03",
+      "description": "Review Bonus (+20)",
+      "points": "+20"
+    },
+    {
+      "id": "pts-1793686969017",
+      "date": "2026-11-03",
+      "description": "Order CB-63978",
+      "points": "+60"
+    },
+    {
+      "id": "pts-1793550777987",
+      "date": "2026-11-01",
+      "description": "Redeemed: Free Artisan Topping",
+      "points": "-50"
+    },
+    {
+      "id": "pts-1793550777976",
+      "date": "2026-11-01",
+      "description": "Review Bonus (+20)",
+      "points": "+20"
+    },
+    {
+      "id": "pts-1793550777950",
+      "date": "2026-11-01",
+      "description": "Order CB-84681",
+      "points": "+60"
+    },
+    {
+      "id": "pts-1793550497548",
+      "date": "2026-11-01",
+      "description": "Redeemed: Free Artisan Topping",
+      "points": "-50"
+    },
+    {
+      "id": "pts-1793550497536",
+      "date": "2026-11-01",
+      "description": "Review Bonus (+20)",
+      "points": "+20"
+    },
+    {
+      "id": "pts-1793550497506",
+      "date": "2026-11-01",
+      "description": "Order CB-66262",
+      "points": "+60"
+    },
+    {
+      "id": "pts-1",
+      "date": "2026-10-15",
+      "description": "Online Delivery #CB-81203",
+      "points": "+50"
+    },
+    {
+      "id": "pts-2",
+      "date": "2026-10-22",
+      "description": "Flagship Parlor Visit",
+      "points": "+40"
+    },
+    {
+      "id": "pts-3",
+      "date": "2026-10-29",
+      "description": "Flavor Review Bonus",
+      "points": "+20"
+    }
+  ],
+  "rewardsCatalog": [
+    {
+      "id": 1,
+      "cost": 50,
+      "title": "Free Artisan Topping",
+      "desc": "Handcrafted fudge drizzle, organic sprinkles, or cacao nibs.",
+      "code": "TOPPINGFREE"
+    },
+    {
+      "id": 2,
+      "cost": 100,
+      "title": "Fresh Waffle Bowl Upgrade",
+      "desc": "Upgrade any single or double scoop to a warm waffle bowl.",
+      "code": "WAFFLEUP"
+    },
+    {
+      "id": 3,
+      "cost": 200,
+      "title": "$5 Off Any Online Order",
+      "desc": "Instant $5 coupon applied directly at checkout.",
+      "code": "SCOOPFIVE"
+    },
+    {
+      "id": 4,
+      "cost": 300,
+      "title": "Complimentary Artisanal Pint",
+      "desc": "One full pint of your favorite seasonal flavor.",
+      "code": "FREEPINT"
+    }
+  ],
+  "redeemedRewards": [
+    {
+      "id": "red-1793686969057",
+      "rewardId": 1,
+      "title": "Free Artisan Topping",
+      "cost": 50,
+      "voucherCode": "CB-TOPPINGFREE-5930",
+      "redeemedAt": "2026-11-03T06:22:49.057Z"
+    },
+    {
+      "id": "red-1793550777987",
+      "rewardId": 1,
+      "title": "Free Artisan Topping",
+      "cost": 50,
+      "voucherCode": "CB-TOPPINGFREE-4876",
+      "redeemedAt": "2026-11-01T16:32:57.987Z"
+    },
+    {
+      "id": "red-1793550497548",
+      "rewardId": 1,
+      "title": "Free Artisan Topping",
+      "cost": 50,
+      "voucherCode": "CB-TOPPINGFREE-9535",
+      "redeemedAt": "2026-11-01T16:28:17.548Z"
+    }
+  ]
+}

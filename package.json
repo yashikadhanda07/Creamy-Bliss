@@ -1,0 +1,22 @@
+{
+  "name": "creamy-bliss-ice-cream-e-commerce",
+  "version": "1.0.0",
+  "description": "Creamy Bliss Artisanal Ice Cream - Full Stack E-Commerce Application",
+  "scripts": {
+    "start:backend": "cd Backend && npm start",
+    "dev:backend": "cd Backend && npm run dev",
+    "dev:frontend": "cd Frontend && npm run dev",
+    "test:backend": "cd Backend && npm test",
+    "build:frontend": "cd Frontend && npm run build"
+  },
+  "keywords": [
+    "react",
+    "express",
+    "full-stack",
+    "ice-cream",
+    "ecommerce"
+  ],
+  "author": "Creamy Bliss Team",
+  "license": "ISC"
+}
+

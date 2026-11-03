@@ -1,0 +1,10 @@
+{
+  "name": "Creamy Bliss",
+  "tagline": "Handcrafted Joy in Every Scoop",
+  "promoCode": "BLISSJOY",
+  "discountPercent": 20,
+  "freeDeliveryThreshold": 25,
+  "standardDeliveryFee": 3.99,
+  "contactPhone": "+1 (415) 555-BLISS",
+  "contactEmail": "scoop@creamybliss.com"
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "sub-1",
+    "email": "fan@sweetmail.com",
+    "joinedAt": "2026-11-01T16:28:17.190Z"
+  },
+  {
+    "id": "sub-1793550497564",
+    "email": "test-1793550497561@sweetbliss.com",
+    "joinedAt": "2026-11-01T16:28:17.564Z"
+  },
+  {
+    "id": "sub-1793550778006",
+    "email": "test-1793550778001@sweetbliss.com",
+    "joinedAt": "2026-11-01T16:32:58.006Z"
+  },
+  {
+    "id": "sub-1793686969077",
+    "email": "test-1793686969074@sweetbliss.com",
+    "joinedAt": "2026-11-03T06:22:49.077Z"
+  }
+]

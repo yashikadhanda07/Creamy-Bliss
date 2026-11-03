@@ -1,0 +1,53 @@
+[
+  {
+    "id": "sf-flagship",
+    "name": "Downtown Flagship Parlor",
+    "address": "452 Artisan Blossom Way, Suite 100",
+    "city": "San Francisco, CA 94103",
+    "hours": "Mon - Sun: 11:00 AM - 10:30 PM",
+    "phone": "(415) 555-0182",
+    "coordinates": {
+      "lat": 37.7833,
+      "lng": -122.4167
+    },
+    "features": [
+      "Indoor Seating",
+      "Waffle Bar",
+      "Curbside Pickup"
+    ]
+  },
+  {
+    "id": "sf-marina",
+    "name": "Marina Waterfront Boutique",
+    "address": "1892 Harbor Breeze Blvd",
+    "city": "San Francisco, CA 94123",
+    "hours": "Mon - Sun: 12:00 PM - 11:00 PM",
+    "phone": "(415) 555-0199",
+    "coordinates": {
+      "lat": 37.8037,
+      "lng": -122.4368
+    },
+    "features": [
+      "Outdoor Patio",
+      "Flight Tastings",
+      "Delivery Hub"
+    ]
+  },
+  {
+    "id": "sunnyvale-gelateria",
+    "name": "Sunnyvale Square Gelateria",
+    "address": "310 Cherry Orchard Lane",
+    "city": "Sunnyvale, CA 94086",
+    "hours": "Tue - Sun: 12:00 PM - 10:00 PM",
+    "phone": "(408) 555-0145",
+    "coordinates": {
+      "lat": 37.3688,
+      "lng": -122.0363
+    },
+    "features": [
+      "Family Friendly",
+      "Vegan Options",
+      "Event Catering"
+    ]
+  }
+]
